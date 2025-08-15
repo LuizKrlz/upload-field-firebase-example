@@ -2,6 +2,8 @@
 
 This project is a modern file upload web application built with **React**, **TypeScript**, and **Vite**. It features a drag-and-drop upload interface, file preview, progress tracking, and reordering of files using drag-and-drop. The app integrates with **Firebase Storage** for file uploads and supports local development using the Firebase Storage Emulator.
 
+![Demonstração](support/example.gif)
+
 ## Features
 
 - ⚡️ Fast development with Vite, React 19, and TypeScript
